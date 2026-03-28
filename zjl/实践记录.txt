@@ -1,0 +1,10 @@
+在cai045实践一下呗
+pip install scdataloader之后 import lamindb还要下载wetlab
+哪个版本？
+检查是否有更新的 scdataloader 或 wetlab 版本：
+pip install --upgrade scdataloader wetlab  能搞定  这个代码很有用欸
+
+但是后面还是不行了
+
+问题：
+能否不顺接lamindb
